@@ -1,0 +1,20 @@
+# ninja log v5
+12	98	7021519489106537	CMakeFiles/decompressor.dir/main.c.obj	53f1dc752f576ef0
+130	292	7022266502617732	decompressor.exe	9fcd2b8da774c8a0
+3	130	7022266501023278	CMakeFiles/decompressor.dir/fun.c.obj	ea4813c3676c1379
+4	123	7022267148739822	CMakeFiles/decompressor.dir/fun.c.obj	ea4813c3676c1379
+123	240	7022267149854879	decompressor.exe	9fcd2b8da774c8a0
+4	146	7022267208394256	CMakeFiles/decompressor.dir/fun.c.obj	ea4813c3676c1379
+146	263	7022267209513605	decompressor.exe	9fcd2b8da774c8a0
+5	125	7022267275705932	CMakeFiles/decompressor.dir/fun.c.obj	ea4813c3676c1379
+126	247	7022267276876136	decompressor.exe	9fcd2b8da774c8a0
+3	115	7022267329013012	CMakeFiles/decompressor.dir/fun.c.obj	ea4813c3676c1379
+116	247	7022267330264337	decompressor.exe	9fcd2b8da774c8a0
+4	127	7022267939215903	CMakeFiles/decompressor.dir/fun.c.obj	ea4813c3676c1379
+127	239	7022267940314261	decompressor.exe	9fcd2b8da774c8a0
+3	126	7022271278107525	CMakeFiles/decompressor.dir/fun.c.obj	ea4813c3676c1379
+126	239	7022271279184063	decompressor.exe	9fcd2b8da774c8a0
+2	146	7022271609208113	CMakeFiles/decompressor.dir/fun.c.obj	ea4813c3676c1379
+146	265	7022271610357187	decompressor.exe	9fcd2b8da774c8a0
+4	137	7022271675404879	CMakeFiles/decompressor.dir/fun.c.obj	ea4813c3676c1379
+138	259	7022271676571368	decompressor.exe	9fcd2b8da774c8a0

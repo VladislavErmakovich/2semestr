@@ -1,0 +1,5 @@
+# ninja log v5
+8	219	7063832622296963	CMakeFiles/lab5.dir/main.c.obj	84168757e5311ffb
+4	126	7063838309074153	CMakeFiles/lab5.dir/fun_cache_hash.c.obj	b1f0749d266ee63e
+1	263	7063832623044963	CMakeFiles/lab5.dir/fun.c.obj	3e282cbc9f54381f
+137	275	7063838310510308	lab5.exe	71e7894059b871a4
